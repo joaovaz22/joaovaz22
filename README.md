@@ -26,9 +26,6 @@
 **Frameworks & Tools**  
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
 
 **Data & Cloud**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
