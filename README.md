@@ -1,8 +1,7 @@
 # 👋 Hi, I'm João Vaz  
 
 💻 Computer Science & Engineering Graduate @ Instituto Superior Técnico  
-📊 Passionate about **Data Science, Data Engineering, and Software Development**  
-🔐 Interested in **Cybersecurity and Data-Driven Applications**  
+📊 Passionate about **UX Design, Data Science, Data Engineering, and Software Development**   
   
 ---
 
@@ -43,4 +42,4 @@
 
 ---
 
-✨ Thanks for visiting my profile! Always open to collaboration and new opportunities in **Data Science and Software Development**.
+✨ Thanks for visiting my profile! Always open to collaboration and new opportunities in **Data Science, Software Development and UX Design**.
